@@ -11,6 +11,8 @@ public class P10872 {
         int a = sc.nextInt();
         
         System.out.println(factorial(a));
+        
+        sc.close();
     }
     
     public static int factorial(int n) {

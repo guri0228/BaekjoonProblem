@@ -1,7 +1,6 @@
 package bronze;
 
 import java.io.*;
-import java.util.*;
 
 public class P11718 {
 
